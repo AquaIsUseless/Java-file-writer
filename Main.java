@@ -3,8 +3,8 @@ import java.io.FileWriter;
 
 public class Main {
     static void main(){
-        Log.print("hey")
-        Log.write_to_file(hey)
+        Log.print("hey");
+        Log.write_to_file("hey");
     }
 }
 
